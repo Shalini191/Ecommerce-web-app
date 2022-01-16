@@ -1,0 +1,11 @@
+{
+    "mysql": {
+      "user" : "root",
+      "db": "ecomm_db",
+      "host": "localhost",
+      "password" : "shalini",
+      "port": 3306
+    },
+    "secret_key": "my_precious"
+  }
+  
